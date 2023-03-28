@@ -22,3 +22,4 @@
 ----------------|-----------------------------------------------------|
 | g = git       | Ver los cambios de un archivo                       |
 | ga = git add  | Incluir los cambios del archivo al siguiente commit |
+**Esto esta en la rama main solamente**
